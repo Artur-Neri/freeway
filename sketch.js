@@ -1,10 +1,11 @@
 let imagemDaEstrada;
 let imagemDoAtor;
-
+let imagemCarro;
 
 function preload(){
-  imagemDoAtor = loadImage('imagens/ator1.png')
-  imagemDaEstrada = loadImage('imagens/estrada.png')
+  imagemDaEstrada = loadImage('imagens/estrada.png');
+  imagemDoAtor = loadImage('imagens/atriz-1.png');
+  imagemCarro = loadImage('imagens/carro-1.png')
 }
 
 function setup() {
@@ -13,5 +14,7 @@ function setup() {
 
 function draw() {
   background(imagemDaEstrada);
-  image(imagemDoAtor, 100, 350)
+  image(imagemDoAtor, 100, 350, 45, 45);
+  image(imagemCarro, 450, 45, 50, 30)
+
 }
