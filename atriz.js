@@ -8,9 +8,9 @@ function mostraAtor(){
 
   function movimentaAtor(){
     if (keyIsDown(UP_ARROW)){
-      yAtor -= 3
+      yAtriz -= 3
     }
     if (keyIsDown(DOWN_ARROW)){
-      yAtor += 3
+      yAtriz += 3
     }
   }
