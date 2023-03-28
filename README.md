@@ -7,6 +7,7 @@
 ## Instruções para jogar
 
 Para rodar o projeto no seu computador, instale a extensão "P5.vscode" e abra o arquivo "index.html" no seu navegador.
+
 Como a movimentação da personagem é bem simples, só utilizaremos duas teclas:
 * Seta para cima: movimenta-se para cima
 * Seta para baixo: movimenta-se para baixo
