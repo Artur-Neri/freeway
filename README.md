@@ -1,6 +1,6 @@
 # Freeway
 
-> Status do projeto: Finalizado.
+> Status do projeto: Finalizado :white_check_mark:.
 
 Para rodar o projeto no seu computador, instale a extensão "P5.vscode" e abra o arquivo "index.html" no seu navegador.
 
