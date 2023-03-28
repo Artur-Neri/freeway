@@ -1,4 +1,4 @@
-# Freeway
+# Freeway :car:
 
 > Status do projeto: Finalizado :white_check_mark:.
 ## Pequena prévia:
