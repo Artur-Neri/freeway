@@ -6,7 +6,7 @@ Para rodar o projeto no seu computador, instale a extensão "P5.vscode" e abra o
 
 ## Assim ficou minha recriação de Freeway:
 <p align="center">
-![image](https://user-images.githubusercontent.com/110543447/228350878-9b280470-4f23-4317-a016-df0080827486.png)
+  ![image](https://user-images.githubusercontent.com/110543447/228350878-9b280470-4f23-4317-a016-df0080827486.png)
 </p>
 
 * Uso de listas para reduzir a quantidade de variáveis criadas;
